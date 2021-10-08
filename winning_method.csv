@@ -1,0 +1,4 @@
+won_popular_dem,won_popular_rep,won_electoral_dem,won_electoral_rep,count,election winner,winning method
+True,False,True,False,6,DEMOCRAT,POPULAR & ELECTORAL
+False,True,False,True,4,REPUBLICAN,POPULAR & ELECTORAL
+True,False,False,True,2,REPUBLICAN,ELECTORAL ONLY
