@@ -1,3 +1,3 @@
-party,states_won,population,total_votes
-REPUBLICAN,30,182859889,62692670
-DEMOCRAT,21,140211865,65677246
+party,states_won,population,total_electoral_votes,total_votes
+REPUBLICAN,30,182859889,306,62692670
+DEMOCRAT,21,140211865,232,65677246
